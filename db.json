@@ -1,0 +1,40 @@
+{
+    "cake": [
+        {
+            "id": 1,
+            "name": "putri salju",
+            "img": "https://i.ibb.co/MngWKb1/cake6.jpg",
+            "harga": 40000
+        },
+        {
+            "id": 2,
+            "name": "roti roll",      
+            "img": "https://i.ibb.co/1vKtCLp/cake4.jpg",
+            "harga": 40000
+        },
+        {
+            "id": 3,
+            "name": "kue keju",
+            "img": "https://i.ibb.co/8c8GjSz/cake2.jpg",
+            "harga": 30000
+        },
+        {
+            "id": 4,
+            "name": "kue lapis",
+            "img": "https://i.ibb.co/ySCJvqw/cake3.jpg",
+            "harga": 250000
+        },
+        {
+            "id": 5,
+            "name": "kue ultah",
+            "img": "https://i.ibb.co/Qm6Hwfr/cake1.jpg",
+            "harga": 180000
+        },
+        {
+            "id": 6,
+            "name": "salad buah",
+            "img": "https://i.ibb.co/BKSX1wT/cake5.jpg",
+            "harga": 300000
+        }
+    ]
+}
