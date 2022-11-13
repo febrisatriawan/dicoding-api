@@ -2,39 +2,39 @@
     "cake": [
         {
             "id": 1,
-            "name": "putri salju",
-            "img": "https://i.ibb.co/MngWKb1/cake6.jpg",
-            "harga": 40000
+            "name": "Kue Gulung",
+            "img": "https://i.ibb.co/Zdqxq1t/1-gulung.jpg",
+            "harga": 50000
         },
         {
             "id": 2,
-            "name": "roti roll",      
-            "img": "https://i.ibb.co/1vKtCLp/cake4.jpg",
-            "harga": 40000
+            "name": "Maksuba",      
+            "img": "https://i.ibb.co/68jvzY2/2-maksuba.jpg",
+            "harga": 250000
         },
         {
             "id": 3,
-            "name": "kue keju",
-            "img": "https://i.ibb.co/8c8GjSz/cake2.jpg",
+            "name": "Santapan Keju",
+            "img": "https://i.ibb.co/wdHdnwq/3-santapan-keju.jpg",
             "harga": 30000
         },
         {
             "id": 4,
-            "name": "kue lapis",
-            "img": "https://i.ibb.co/ySCJvqw/cake3.jpg",
-            "harga": 250000
+            "name": "Salad Buah",
+            "img": "https://i.ibb.co/0sbfqJ1/4-salad.jpg",
+            "harga": 25000
         },
         {
             "id": 5,
-            "name": "kue ultah",
-            "img": "https://i.ibb.co/Qm6Hwfr/cake1.jpg",
+            "name": "Kue Ultah",
+            "img": "https://i.ibb.co/8mmdFgC/5-kue-ultah.jpg",
             "harga": 180000
         },
         {
             "id": 6,
-            "name": "salad buah",
-            "img": "https://i.ibb.co/BKSX1wT/cake5.jpg",
-            "harga": 300000
+            "name": "Putri Salju",
+            "img": "https://i.ibb.co/wJFV3zP/6-putri-salju.jpg",
+            "harga": 40000
         }
     ]
 }
